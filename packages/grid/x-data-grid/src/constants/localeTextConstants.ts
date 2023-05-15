@@ -82,8 +82,8 @@ export const GRID_DEFAULT_LOCALE_TEXT: GridLocaleText = {
   columnMenuFilter: 'Filter',
   columnMenuHideColumn: 'Hide column',
   columnMenuUnsort: 'Unsort',
-  columnMenuSortAsc: 'Sort by ASC',
-  columnMenuSortDesc: 'Sort by DESC',
+  columnMenuSortAsc: 'Sort by A-Z',
+  columnMenuSortDesc: 'Sort by Z-A',
 
   // Column header text
   columnHeaderFiltersTooltipActive: (count) =>
